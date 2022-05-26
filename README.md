@@ -1,2 +1,2 @@
-# Fall2021-332-
-Operating System
+# Fall2021-CSC332-
+CSC332 - Operating System
